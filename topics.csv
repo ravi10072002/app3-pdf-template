@@ -1,0 +1,40 @@
+order,topic,pages
+1,variables,2
+2,lists,3
+3,functions,3
+4,while-loop,2
+5,methods,3
+6,match-case,2
+7,for-loop,3
+8,type-conversion,2
+9,list indices,2
+10,tuples,2
+11,enumerate,2
+12,f-strings,2
+13,"write text files,road text files",3
+14,file paths,2
+15,list comprehensions,2
+16,comments,2
+17,with-content manager,2
+18,"if,elif,and else conditonls",3
+19,slicing,2
+20,dictionaries,3
+21,try-except and exceptions,2
+22,continue statement,2
+23,custom functions,4
+24,functions arguments,2
+25,multiple arguments,2
+26,decoupling output,2
+27,default arguments,2
+28,doc strings,2
+29,decoupling functions,2
+30,local modules and import,2
+31,standard modules,2
+32,git and github,4
+33,third-party modules,2
+34,GUI,2
+35,web development with streamlit,6
+36,heroku deployment,2
+37,pdf generation with pdfkit,4
+38,data handling with pandas,6
+39,sending emails,4
